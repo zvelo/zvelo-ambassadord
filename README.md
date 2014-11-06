@@ -1,4 +1,7 @@
-# ambassadord
+zvelo-ambassadord
+=================
+
+[![wercker status](https://app.wercker.com/status/e53c1726edd5760eb17613077e9f718f/s "wercker status")](https://app.wercker.com/project/bykey/e53c1726edd5760eb17613077e9f718f)
 
 A Docker ambassador (containerized TCP reverse proxy / forwarder) that supports static forwards, DNS-based forwards (with SRV), Consul+Etcd based forwards, or forwards based on the connecting container's intended backend (read: magic).
 
